@@ -3,7 +3,6 @@
 A clean design for a car service center created with flutter.
 
 Design credit - https://dribbble.com/shots/6023001-Eleanor-iOS-Car-App/attachments/1294142
-How do I code this - https://youtu.be/yjij9H2KS-Q
 
 ## Screenshots
 
